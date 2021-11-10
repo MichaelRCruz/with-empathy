@@ -229,11 +229,33 @@ ever forget about that kind of thinking. If you lose that, then we are toast.
 
 Moving on to something more tangible is how to understand credit and how or
 if we want to phase that out. It seems comfortable jumping to this next topic
-so that we have something to hang on to when exploring a life with no cash and
-pockets full of coin. Let us build up to that. If we have been vigilant, then
-we have a network that the credit cards can live on. The transactions by
-mechanical card readers are worth visiting at this point.
+so that we have something to hang on to when exploring a life with no cash.
+Let us build up to that. If we have been vigilant, then we have a network that
+the credit cards can live on. The transactions by mechanical card readers are
+worth visiting at this point. Think about how merchants operate and you will
+see how far they will carry the mechanical card readers. My first concern would
+be for the merchants on your block, as in, there are merchants everywhere and
+we are not everywhere. Remembering this will help smokey the bear prevent many
+forest fires.
 
-Think about how merchants operate.
+Do not leave your market. You have a pay phone and a phone number, but we are
+building an airplane in the sky, so-to-speak. Expect everything rolling downhill
+to resemble something of a pattern. For example, I never want you to change your
+phone number. For example, I prefer shorter name spaces rather than neglecting
+_best practices_. If your boss can teach you these his way, then we are good to
+go. That is how best practices are. You are not sure at first why the broom is
+leaning against that counter, in your path, but you do not touch it. Try to
+resist the urge to ask why it is there. Assume that your boss is a master jedi
+ninja. When you get to that point, and can ignore the broom, again and again,
+then you will be ready to understand that your boss talks to other bosses in
+ways you never thought of. In other words, I really like best practices. Your
+boss has figured out what they are with other bosses and sometimes one boss
+figures out a better way. When this happens, the other bosses take that into
+account until it is completely discussed and through all questioning. This
+effort brings a new standard to the table whereby professionals decide if
+they want to include the new _best practice_ into how they do things. That is
+kind of how it works in software.
+
+
 
 ...brb
