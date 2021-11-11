@@ -260,23 +260,13 @@ kind of how it works in software.
 
 If we can win the series, then we will be fine.
 
-This next idea is about understanding the reduction in however our coins were
-minted. In other words, the dollar is quartered, the dollar is dimed, the
-dollar is nickeled, and the dollar is pennied. The coins that are quartered
-exist as two different styles: old-school and new-school. Of the new-school
-quarters, there are fifty designs. This is too much complication. This is so
-much complication that I called in sick to work. In other words, it must have
-been a mistake to have put so many different styles on those things. They are
-all very lovely. They all will make very nice keepsakes. Thanks for the help,
-Colonel Mustard.
+The dollar is quartered, the dollar is dimed, the dollar is nickeled, and the
+dollar is pennied. The quarters are minted in two different styles: old-school and
+new-school. That is the formal name of these quarters. Of the new-school quarters,
+there are fifty designs. This is too much complication. This is so much complication
+that I called in sick to work. In other words, it must have been a mistake to have
+put so many different things on the backs of the quarters.
 
-We have an idea of how to find the peaches we like. They are all in a big
-bucket, but sloppy peaches are gross. I like those old-school ones. Let us
-start there, but how to get them all. I will show you.
-
-As we start to break this down into more understandable and detailed sections
-it would be nice for me to describe, once again, the sequences of least
-complications or whatever the industry called it.
 
 
 
